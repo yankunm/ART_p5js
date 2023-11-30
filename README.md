@@ -8,4 +8,4 @@ Look at every possible path and try to find the optimal one.
 
 ## A* Path Finding Algorithm
 
-Heuristics
+Heuristics - educative guess - This route is probably the best
