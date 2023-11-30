@@ -13,3 +13,5 @@ Heuristics - educative guess - This route is probably the best
 ## Implementation
 
 2D Grid that stores every possible pixel.
+
+The difference between *var* and *let/const* in JavaScript: *var* is **function-scoped**, where *let/const* is **block-scoped**.
